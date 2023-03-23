@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aisoph"]
+	path = aisoph
+	url = https://github.com/cran/aisoph
+	shallow = true
+	registered = true
+[submodule "isoSurv"]
+	path = isoSurv
+	url = https://github.com/cran/isoSurv
+	shallow = true
+	registered = true
+[submodule "persDx"]
+	path = persDx
+	url = https://github.com/cran/persDx
+	shallow = true
+	registered = true
+[submodule "surrosurvROC"]
+	path = surrosurvROC
+	url = https://github.com/cran/surrosurvROC
+	shallow = true
+	registered = true
+[submodule "uniah"]
+	path = uniah
+	url = https://github.com/cran/uniah
+	shallow = true
+	registered = true
