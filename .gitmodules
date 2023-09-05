@@ -17,3 +17,6 @@
 [submodule "uniah"]
 	path = uniah
 	url = https://github.com/cran/uniah
+[submodule "varoc"]
+	path = varoc
+	url = https://github.com/cran/varoc
